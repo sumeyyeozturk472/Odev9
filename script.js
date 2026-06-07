@@ -1,4 +1,4 @@
-console.log("BU ÖDEV BİLGİSAYAR MÜHENDİSLİĞİ 2.SINIF SÜMEYYE ÖZTÜRK TARAFINDAN YAPILMIŞTIR.");
+console.log("BU ÖDEV BİLGİSAYAR MÜHENDİSLİĞİ 2.SINIF ÖĞRENCİSİ SÜMEYYE ÖZTÜRK TARAFINDAN YAPILMIŞTIR.");
 
 console.log("****************1.Soru********************");
 function kareAl(sayi) {
